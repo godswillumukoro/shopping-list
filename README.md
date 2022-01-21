@@ -1,4 +1,4 @@
-View the app Live here: https://godswillumukoro.github.io/Shopping-List
+View the app Live here: https://shopping-list-lit.vercel.app/
 # Shopping-List
 I built a shopping list app so you don't forget the items that you need to purchase
 
